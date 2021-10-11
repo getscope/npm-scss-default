@@ -1,0 +1,30 @@
+{
+    "name": "@getscope/npm-scss-default",
+    "private": true,
+    "version": "1.0.0",
+    "description": "",
+    "keywords": [
+        "npm",
+        "scss"
+    ],
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "homepage": "https://github.com/getscope/npm-scss-default",
+    "licenses": "MIT",
+    "author": {
+        "name": "bu0nq",
+        "email": "hello@bu0nq.ru",
+        "homepage": "https://bu0nq.ru",
+        "role": "Developer"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/getscope/npm-scss-default.git"
+    },
+    "devDependencies": {
+        "resolve-url-loader": "^3.1.0",
+        "sass": "^1.26.10",
+        "sass-loader": "^8.0.0"
+    }
+}
